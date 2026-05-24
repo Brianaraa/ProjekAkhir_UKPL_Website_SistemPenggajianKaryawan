@@ -11,10 +11,10 @@
 * **Platform:** Web Browser (HTML / CSS / JavaScript - Vanilla)
 * **Mata Kuliah:** Uji Kualitas Perangkat Lunak (UKPL)
 * **Peran Tim:**
-  * **Orang 1 (Builder / Kamu):** Membangun seluruh fondasi aplikasi, arsitektur kode, modul kalkulasi, validasi, dan UI premium yang siap uji.
-  * **Orang 2 (Whitebox Tester):** Bertanggung jawab atas pengujian jalur logika (*control flow graph*, *cyclomatic complexity*, dan *code coverage*).
-  * **Orang 3 (Blackbox Tester):** Bertanggung jawab atas pengujian fungsionalitas (*Equivalence Partitioning*, *Boundary Value Analysis*, dan *Ad-hoc testing*).
-  * **Orang 4 (Stress Tester):** Bertanggung jawab atas pengujian beban ekstrem, skalabilitas data, dan pencarian titik batas sistem (*crash point*).
+  * **Brianara (Builder):** Membangun seluruh fondasi aplikasi, arsitektur kode, modul kalkulasi, validasi, dan UI premium yang siap uji.
+  * **Raple (Whitebox Tester):** Bertanggung jawab atas pengujian jalur logika (*control flow graph*, *cyclomatic complexity*, dan *code coverage*).
+  * **Kaka (Blackbox Tester):** Bertanggung jawab atas pengujian fungsionalitas (*Equivalence Partitioning*, *Boundary Value Analysis*, dan *Ad-hoc testing*).
+  * **Ikhsan (Stress Tester):** Bertanggung jawab atas pengujian beban ekstrem, skalabilitas data, dan pencarian titik batas sistem (*crash point*).
 
 ---
 
